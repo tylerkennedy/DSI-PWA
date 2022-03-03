@@ -13,7 +13,7 @@ class MyDocument extends Document {
 						content="an example of NextJS app with 100% accessible lighthouse score"
 					/>
 					<link rel="manifest" href="static/manifest.json" />
-					<link rel="icon" href="static/img/favicon.ico" />
+					<link rel="icon" href="static/img/favicon.png" />
 					<link
 						rel="stylesheet"
 						href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"

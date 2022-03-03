@@ -8,7 +8,7 @@ import CssBaseline from '@material-ui/core/CssBaseline'
 const theme = createMuiTheme({
 	palette: {
 		background: {
-			default: '#EEE',
+			default: '#FEFEFE',
 		},
 		primary: {
 			main: '#673ab7',
@@ -33,7 +33,7 @@ const MyApp = ({ Component, pageProps }) => {
 	return (
 		<>
 			<Head>
-				<title>Todo App</title>
+				<title>Death Scene Investigation</title>
 				<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 			</Head>
 			<ThemeProvider theme={theme}>

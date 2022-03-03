@@ -18,6 +18,8 @@ To learn more about Next.js, take a look at the following resources:
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
+- [React Material UI ](https://mui.com/getting-started/learn/) - UI library to make building react components easier
+
 ## Deployment
 ### ▲ Deploy on Vercel
 

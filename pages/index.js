@@ -1,11 +1,15 @@
 import Fork from '../components/Fork'
 import Todo from '../components/Todo'
+import Nav from '../components/Nav'
+import Form from '../components/Form'
 
 export default function Index({ stars }) {
 	return (
 		<main>
-			<Fork stars={stars} />
-			<Todo />
+			{/* <Fork stars={stars} /> */}
+			{/* <Todo /> */}
+      <Nav></Nav>
+      <Form></Form>
 		</main>
 	)
 }
