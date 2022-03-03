@@ -3,6 +3,7 @@ const withOffline = require('next-offline')
 module.exports = withOffline({
 	workboxOpts: {
 		swDest: 'static/service-worker.js',
+    swcMinify: false,
 		runtimeCaching: [
 			{
 				urlPattern: /[.](png|jpg|ico|css)/,
